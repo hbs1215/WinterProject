@@ -125,6 +125,7 @@
     <Compile Include="Assets\Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\Scripts\TestPaul\TestPaul01.cs" />
     <Compile Include="Assets\Scripts\UI_Script\Menu.cs" />
     <Compile Include="Assets\Scripts\UI_Script\test2.cs" />
     <Compile Include="Assets\Scripts\test_script.cs" />
