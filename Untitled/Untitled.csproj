@@ -125,10 +125,15 @@
     <Compile Include="Assets\Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\Assets\Toon Character Pack\Scripts\AnimTriggers.cs" />
+    <Compile Include="Assets\Assets\Toon Character Pack\Scripts\BotControlScript.cs" />
+    <Compile Include="Assets\Assets\Toon Character Pack\Scripts\SmoothCameraOrbit.cs" />
+    <Compile Include="Assets\Assets\Toon Character Pack\Scripts\VirtualJoystick.cs" />
     <Compile Include="Assets\Scripts\TestPaul\TestPaul01.cs" />
     <Compile Include="Assets\Scripts\UI_Script\Menu.cs" />
     <Compile Include="Assets\Scripts\UI_Script\test2.cs" />
     <Compile Include="Assets\Scripts\test_script.cs" />
+    <Compile Include="Assets\Scripts\yoonatest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
@@ -137,6 +142,17 @@
     <None Include="Assets\Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
     <None Include="Assets\Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
     <None Include="Assets\Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+    <None Include="Assets\Assets\Toon Character Pack\Shaders\Projector Multiply.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\Shaders\Toony-Basic.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\Shaders\Toony-BasicOutline.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\Shaders\Toony-Lighted.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\Shaders\Toony-LightedOutline.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\Shaders\Toony-Transparent.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\Shaders\Unlit-Alpha.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\TSF\Shaders\TSF.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\TSF\Shaders\TSFOutline.shader" />
+    <None Include="Assets\Assets\Toon Character Pack\Toon Animations\ToonAnimations - Readme.txt" />
+    <None Include="Assets\Assets\Toon Character Pack\_Toon Character Pack.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
