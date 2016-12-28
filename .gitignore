@@ -172,6 +172,7 @@ App_Data/*.ldf
 
 # Windows image file caches
 Thumbs.db
+
 ehthumbs.db
 
 # Folder config file
@@ -235,6 +236,7 @@ obj/
 *.user
 *.unityproj
 *.booproj
+*.sln
 
 # ============ #
 # OS generated #
